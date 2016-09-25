@@ -57,3 +57,4 @@ If I had more time, I would like to have:
 
 * Better reporting and execution logging in the "WebBrowser" object for additional test debugging as necessary.
 
+Peter Gale
